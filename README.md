@@ -8,14 +8,14 @@ Bobby was given two tasks by his manager to determine the number of retiring emp
 
 As you can see from 
 
-![](retiring_titles.png),
+![](Resources/retiring_titles.png),
 
 * Highest number of employees retiring are senior engineers
 * Only 2 managers are retiring
 
 and from 
 
-![](total_count_eligible_mentorship.png)
+![](Resources/total_count_eligible_mentorship.png)
 
 * 1549 current employees who were born in the year of 1965 are eligible for mentorship.
 * It appears like out of all current employees(~240k) only a very small percentage of employees are eligible for mentorship.
@@ -27,7 +27,7 @@ and from
 As you can see from 
 
 
-![](retiring_titles.png), 
+![](Resources/retiring_titles.png), 
 
 
 there seems to be a total of 90398 positions to be filled out.
@@ -43,12 +43,12 @@ There are enough people to train in most of the departments except for managers.
 
 By filtering on the number of employees earning over 50k can help in planning the budget for next quarter to refill those positions
 
-![](employees_salary_over_50k.png)
+![](Resources/employees_salary_over_50k.png)
 
 ### Retiring employees gender
 
 By filtering on the gender and knowing how many male/female employees are retiring, we can plan gender appropriate return gifts.
 
-![](gender_info.png)
+![](Resources/gender_info.png)
 
 
