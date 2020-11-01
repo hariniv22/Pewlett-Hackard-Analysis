@@ -18,7 +18,7 @@ and from
 ![](total_count_eligible_mentorship.png)
 
 * 1549 current employees who were born in the year of 1965 are eligible for mentorship.
-* Before applying distict ON, we would see duplicate entries for some employees because they have switched titles over the years
+* It appears like out of all current employees(~240k) only a very small percentage of employees are eligible for mentorship.
 
 # Summary
 
